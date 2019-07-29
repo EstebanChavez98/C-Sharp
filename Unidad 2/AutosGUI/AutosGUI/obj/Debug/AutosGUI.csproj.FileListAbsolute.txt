@@ -1,0 +1,13 @@
+C:\Users\Javier\Desktop\JC\Escuela\Programacion II\Unidad 2\AutosGUI\AutosGUI\bin\Debug\AutosGUI.exe.config
+C:\Users\Javier\Desktop\JC\Escuela\Programacion II\Unidad 2\AutosGUI\AutosGUI\bin\Debug\AutosGUI.exe
+C:\Users\Javier\Desktop\JC\Escuela\Programacion II\Unidad 2\AutosGUI\AutosGUI\bin\Debug\AutosGUI.pdb
+C:\Users\Javier\Desktop\JC\Escuela\Programacion II\Unidad 2\AutosGUI\AutosGUI\obj\Debug\AutosGUI.csprojResolveAssemblyReference.cache
+C:\Users\Javier\Desktop\JC\Escuela\Programacion II\Unidad 2\AutosGUI\AutosGUI\obj\Debug\AutosGUI.Form1.resources
+C:\Users\Javier\Desktop\JC\Escuela\Programacion II\Unidad 2\AutosGUI\AutosGUI\obj\Debug\AutosGUI.frmConsulta.resources
+C:\Users\Javier\Desktop\JC\Escuela\Programacion II\Unidad 2\AutosGUI\AutosGUI\obj\Debug\AutosGUI.Properties.Resources.resources
+C:\Users\Javier\Desktop\JC\Escuela\Programacion II\Unidad 2\AutosGUI\AutosGUI\obj\Debug\AutosGUI.csproj.GenerateResource.Cache
+C:\Users\Javier\Desktop\JC\Escuela\Programacion II\Unidad 2\AutosGUI\AutosGUI\obj\Debug\AutosGUI.exe
+C:\Users\Javier\Desktop\JC\Escuela\Programacion II\Unidad 2\AutosGUI\AutosGUI\obj\Debug\AutosGUI.pdb
+C:\Users\Javier\Desktop\JC\Escuela\Programacion II\Unidad 2\AutosGUI\AutosGUI\obj\Debug\AutosGUI.frmAuto.resources
+C:\Users\Javier\Desktop\JC\Escuela\Programacion II\Unidad 2\AutosGUI\AutosGUI\obj\Debug\AutosGUI.frmConsultaAutos.resources
+C:\Users\Javier\Desktop\JC\Escuela\Programacion II\Unidad 2\AutosGUI\AutosGUI\obj\Debug\AutosGUI.frmPrincipal.resources

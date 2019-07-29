@@ -1,0 +1,6 @@
+C:\Users\Javier\Desktop\JC\Escuela\Programacion II\Tortilleria\Tortilleria\bin\Debug\Tortilleria.exe.config
+C:\Users\Javier\Desktop\JC\Escuela\Programacion II\Tortilleria\Tortilleria\bin\Debug\Tortilleria.exe
+C:\Users\Javier\Desktop\JC\Escuela\Programacion II\Tortilleria\Tortilleria\bin\Debug\Tortilleria.pdb
+C:\Users\Javier\Desktop\JC\Escuela\Programacion II\Tortilleria\Tortilleria\obj\Debug\Tortilleria.csprojResolveAssemblyReference.cache
+C:\Users\Javier\Desktop\JC\Escuela\Programacion II\Tortilleria\Tortilleria\obj\Debug\Tortilleria.exe
+C:\Users\Javier\Desktop\JC\Escuela\Programacion II\Tortilleria\Tortilleria\obj\Debug\Tortilleria.pdb

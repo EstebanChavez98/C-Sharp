@@ -1,0 +1,5 @@
+C:\Users\Javier\Desktop\JC\Escuela\Programacion II\Tarea2.Ciclos\Tarea2.Ciclos\bin\Debug\Tarea2.Ciclos.exe.config
+C:\Users\Javier\Desktop\JC\Escuela\Programacion II\Tarea2.Ciclos\Tarea2.Ciclos\bin\Debug\Tarea2.Ciclos.exe
+C:\Users\Javier\Desktop\JC\Escuela\Programacion II\Tarea2.Ciclos\Tarea2.Ciclos\bin\Debug\Tarea2.Ciclos.pdb
+C:\Users\Javier\Desktop\JC\Escuela\Programacion II\Tarea2.Ciclos\Tarea2.Ciclos\obj\Debug\Tarea2.Ciclos.exe
+C:\Users\Javier\Desktop\JC\Escuela\Programacion II\Tarea2.Ciclos\Tarea2.Ciclos\obj\Debug\Tarea2.Ciclos.pdb

@@ -1,0 +1,6 @@
+C:\Users\Javier\Desktop\JC\Escuela\Programacion II\Tarea1.0\Tarea1.0\bin\Debug\Tarea1.0.exe.config
+C:\Users\Javier\Desktop\JC\Escuela\Programacion II\Tarea1.0\Tarea1.0\bin\Debug\Tarea1.0.exe
+C:\Users\Javier\Desktop\JC\Escuela\Programacion II\Tarea1.0\Tarea1.0\bin\Debug\Tarea1.0.pdb
+C:\Users\Javier\Desktop\JC\Escuela\Programacion II\Tarea1.0\Tarea1.0\obj\Debug\Tarea1.0.csprojResolveAssemblyReference.cache
+C:\Users\Javier\Desktop\JC\Escuela\Programacion II\Tarea1.0\Tarea1.0\obj\Debug\Tarea1.0.exe
+C:\Users\Javier\Desktop\JC\Escuela\Programacion II\Tarea1.0\Tarea1.0\obj\Debug\Tarea1.0.pdb

@@ -1,0 +1,11 @@
+C:\Users\Javier\Desktop\JC\Escuela\Programacion II\Unidad 2\VentanaEmpleados\VentanaEmpleados\bin\Debug\VentanaEmpleados.exe.config
+C:\Users\Javier\Desktop\JC\Escuela\Programacion II\Unidad 2\VentanaEmpleados\VentanaEmpleados\obj\Debug\VentanaEmpleados.csprojResolveAssemblyReference.cache
+C:\Users\Javier\Desktop\JC\Escuela\Programacion II\Unidad 2\VentanaEmpleados\VentanaEmpleados\obj\Debug\VentanaEmpleados.ConsultaEmpleado.resources
+C:\Users\Javier\Desktop\JC\Escuela\Programacion II\Unidad 2\VentanaEmpleados\VentanaEmpleados\obj\Debug\VentanaEmpleados.Form1.resources
+C:\Users\Javier\Desktop\JC\Escuela\Programacion II\Unidad 2\VentanaEmpleados\VentanaEmpleados\obj\Debug\VentanaEmpleados.Properties.Resources.resources
+C:\Users\Javier\Desktop\JC\Escuela\Programacion II\Unidad 2\VentanaEmpleados\VentanaEmpleados\obj\Debug\VentanaEmpleados.csproj.GenerateResource.Cache
+C:\Users\Javier\Desktop\JC\Escuela\Programacion II\Unidad 2\VentanaEmpleados\VentanaEmpleados\bin\Debug\VentanaEmpleados.exe
+C:\Users\Javier\Desktop\JC\Escuela\Programacion II\Unidad 2\VentanaEmpleados\VentanaEmpleados\bin\Debug\VentanaEmpleados.pdb
+C:\Users\Javier\Desktop\JC\Escuela\Programacion II\Unidad 2\VentanaEmpleados\VentanaEmpleados\obj\Debug\VentanaEmpleados.exe
+C:\Users\Javier\Desktop\JC\Escuela\Programacion II\Unidad 2\VentanaEmpleados\VentanaEmpleados\obj\Debug\VentanaEmpleados.pdb
+C:\Users\Javier\Desktop\JC\Escuela\Programacion II\Unidad 2\VentanaEmpleados\VentanaEmpleados\obj\Debug\VentanaEmpleados.frmConsultaDepartamento.resources

@@ -1,0 +1,9 @@
+C:\Users\Javier\Desktop\JC\Escuela\Programacion II\Unidad 2\Ventana p1\Ventana p1\bin\Debug\Ventana p1.exe.config
+C:\Users\Javier\Desktop\JC\Escuela\Programacion II\Unidad 2\Ventana p1\Ventana p1\bin\Debug\Ventana p1.exe
+C:\Users\Javier\Desktop\JC\Escuela\Programacion II\Unidad 2\Ventana p1\Ventana p1\bin\Debug\Ventana p1.pdb
+C:\Users\Javier\Desktop\JC\Escuela\Programacion II\Unidad 2\Ventana p1\Ventana p1\obj\Debug\Ventana p1.csprojResolveAssemblyReference.cache
+C:\Users\Javier\Desktop\JC\Escuela\Programacion II\Unidad 2\Ventana p1\Ventana p1\obj\Debug\Ventana_p1.Form1.resources
+C:\Users\Javier\Desktop\JC\Escuela\Programacion II\Unidad 2\Ventana p1\Ventana p1\obj\Debug\Ventana_p1.Properties.Resources.resources
+C:\Users\Javier\Desktop\JC\Escuela\Programacion II\Unidad 2\Ventana p1\Ventana p1\obj\Debug\Ventana p1.csproj.GenerateResource.Cache
+C:\Users\Javier\Desktop\JC\Escuela\Programacion II\Unidad 2\Ventana p1\Ventana p1\obj\Debug\Ventana p1.exe
+C:\Users\Javier\Desktop\JC\Escuela\Programacion II\Unidad 2\Ventana p1\Ventana p1\obj\Debug\Ventana p1.pdb

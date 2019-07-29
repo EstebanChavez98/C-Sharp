@@ -1,0 +1,6 @@
+C:\Users\Javier\Desktop\JC\Escuela\Programacion II\Unidad 2\asd\asd\bin\Debug\asd.exe.config
+C:\Users\Javier\Desktop\JC\Escuela\Programacion II\Unidad 2\asd\asd\bin\Debug\asd.exe
+C:\Users\Javier\Desktop\JC\Escuela\Programacion II\Unidad 2\asd\asd\bin\Debug\asd.pdb
+C:\Users\Javier\Desktop\JC\Escuela\Programacion II\Unidad 2\asd\asd\obj\Debug\asd.csprojResolveAssemblyReference.cache
+C:\Users\Javier\Desktop\JC\Escuela\Programacion II\Unidad 2\asd\asd\obj\Debug\asd.exe
+C:\Users\Javier\Desktop\JC\Escuela\Programacion II\Unidad 2\asd\asd\obj\Debug\asd.pdb

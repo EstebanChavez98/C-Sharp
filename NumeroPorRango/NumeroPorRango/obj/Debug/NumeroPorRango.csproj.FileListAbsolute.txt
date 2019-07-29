@@ -1,0 +1,6 @@
+C:\Users\Javier\Desktop\JC\Escuela\Programacion II\NumeroPorRango\NumeroPorRango\bin\Debug\NumeroPorRango.exe.config
+C:\Users\Javier\Desktop\JC\Escuela\Programacion II\NumeroPorRango\NumeroPorRango\bin\Debug\NumeroPorRango.exe
+C:\Users\Javier\Desktop\JC\Escuela\Programacion II\NumeroPorRango\NumeroPorRango\bin\Debug\NumeroPorRango.pdb
+C:\Users\Javier\Desktop\JC\Escuela\Programacion II\NumeroPorRango\NumeroPorRango\obj\Debug\NumeroPorRango.csprojResolveAssemblyReference.cache
+C:\Users\Javier\Desktop\JC\Escuela\Programacion II\NumeroPorRango\NumeroPorRango\obj\Debug\NumeroPorRango.exe
+C:\Users\Javier\Desktop\JC\Escuela\Programacion II\NumeroPorRango\NumeroPorRango\obj\Debug\NumeroPorRango.pdb

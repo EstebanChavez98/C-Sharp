@@ -1,0 +1,11 @@
+C:\Users\Javier\Desktop\JC\Escuela\Programacion II\Estudio\EstudioExamen\frmPrincipal\bin\Debug\frmPrincipal.exe.config
+C:\Users\Javier\Desktop\JC\Escuela\Programacion II\Estudio\EstudioExamen\frmPrincipal\bin\Debug\frmPrincipal.exe
+C:\Users\Javier\Desktop\JC\Escuela\Programacion II\Estudio\EstudioExamen\frmPrincipal\bin\Debug\frmPrincipal.pdb
+C:\Users\Javier\Desktop\JC\Escuela\Programacion II\Estudio\EstudioExamen\frmPrincipal\obj\Debug\EstudioExamen.csprojResolveAssemblyReference.cache
+C:\Users\Javier\Desktop\JC\Escuela\Programacion II\Estudio\EstudioExamen\frmPrincipal\obj\Debug\frmPrincipal.frmAltaJuegos.resources
+C:\Users\Javier\Desktop\JC\Escuela\Programacion II\Estudio\EstudioExamen\frmPrincipal\obj\Debug\frmPrincipal.frmPrincipal.resources
+C:\Users\Javier\Desktop\JC\Escuela\Programacion II\Estudio\EstudioExamen\frmPrincipal\obj\Debug\frmPrincipal.Properties.Resources.resources
+C:\Users\Javier\Desktop\JC\Escuela\Programacion II\Estudio\EstudioExamen\frmPrincipal\obj\Debug\EstudioExamen.csproj.GenerateResource.Cache
+C:\Users\Javier\Desktop\JC\Escuela\Programacion II\Estudio\EstudioExamen\frmPrincipal\obj\Debug\frmPrincipal.exe
+C:\Users\Javier\Desktop\JC\Escuela\Programacion II\Estudio\EstudioExamen\frmPrincipal\obj\Debug\frmPrincipal.pdb
+C:\Users\Javier\Desktop\JC\Escuela\Programacion II\Estudio\EstudioExamen\frmPrincipal\obj\Debug\frmPrincipal.frmConsultaJuegos.resources

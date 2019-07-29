@@ -1,0 +1,6 @@
+C:\Users\Javier\Desktop\JC\Escuela\Programacion II\FechaNacimiento\FechaNacimiento\bin\Debug\FechaNacimiento.exe.config
+C:\Users\Javier\Desktop\JC\Escuela\Programacion II\FechaNacimiento\FechaNacimiento\obj\Debug\FechaNacimiento.csprojResolveAssemblyReference.cache
+C:\Users\Javier\Desktop\JC\Escuela\Programacion II\FechaNacimiento\FechaNacimiento\bin\Debug\FechaNacimiento.exe
+C:\Users\Javier\Desktop\JC\Escuela\Programacion II\FechaNacimiento\FechaNacimiento\bin\Debug\FechaNacimiento.pdb
+C:\Users\Javier\Desktop\JC\Escuela\Programacion II\FechaNacimiento\FechaNacimiento\obj\Debug\FechaNacimiento.exe
+C:\Users\Javier\Desktop\JC\Escuela\Programacion II\FechaNacimiento\FechaNacimiento\obj\Debug\FechaNacimiento.pdb

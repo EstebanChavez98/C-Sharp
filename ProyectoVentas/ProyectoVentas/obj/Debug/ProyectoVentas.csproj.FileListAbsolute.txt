@@ -1,0 +1,6 @@
+C:\Users\Javier\Desktop\JC\Escuela\Programacion II\ProyectoVentas\ProyectoVentas\bin\Debug\ProyectoVentas.exe.config
+C:\Users\Javier\Desktop\JC\Escuela\Programacion II\ProyectoVentas\ProyectoVentas\bin\Debug\ProyectoVentas.exe
+C:\Users\Javier\Desktop\JC\Escuela\Programacion II\ProyectoVentas\ProyectoVentas\bin\Debug\ProyectoVentas.pdb
+C:\Users\Javier\Desktop\JC\Escuela\Programacion II\ProyectoVentas\ProyectoVentas\obj\Debug\ProyectoVentas.csprojResolveAssemblyReference.cache
+C:\Users\Javier\Desktop\JC\Escuela\Programacion II\ProyectoVentas\ProyectoVentas\obj\Debug\ProyectoVentas.exe
+C:\Users\Javier\Desktop\JC\Escuela\Programacion II\ProyectoVentas\ProyectoVentas\obj\Debug\ProyectoVentas.pdb

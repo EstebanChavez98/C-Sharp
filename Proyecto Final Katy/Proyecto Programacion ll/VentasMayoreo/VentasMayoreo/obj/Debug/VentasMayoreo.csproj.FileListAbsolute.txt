@@ -1,0 +1,145 @@
+C:\Users\luisp\Downloads\Proyecto Programacion ll\VentasMayoreo\VentasMayoreo\bin\Debug\VentasMayoreo.exe.config
+C:\Users\luisp\Downloads\Proyecto Programacion ll\VentasMayoreo\VentasMayoreo\obj\Debug\VentasMayoreo.exe
+C:\Users\luisp\Downloads\Proyecto Programacion ll\VentasMayoreo\VentasMayoreo\obj\Debug\VentasMayoreo.pdb
+C:\Users\luisp\Downloads\Proyecto Programacion ll\VentasMayoreo\VentasMayoreo\bin\Debug\VentasMayoreo.exe
+C:\Users\luisp\Downloads\Proyecto Programacion ll\VentasMayoreo\VentasMayoreo\bin\Debug\VentasMayoreo.pdb
+C:\Users\luisp\Downloads\Proyecto Programacion ll\VentasMayoreo\VentasMayoreo\bin\Debug\Microsoft.ReportViewer.WinForms.dll
+C:\Users\luisp\Downloads\Proyecto Programacion ll\VentasMayoreo\VentasMayoreo\bin\Debug\es\Microsoft.ReportViewer.WinForms.resources.dll
+C:\Users\luisp\Downloads\Proyecto Programacion ll\VentasMayoreo\VentasMayoreo\obj\Debug\VentasMayoreo.csprojResolveAssemblyReference.cache
+C:\Users\luisp\Downloads\Proyecto Programacion ll\VentasMayoreo\VentasMayoreo\obj\Debug\VentasMayoreo.ActualizarEmpleado.resources
+C:\Users\luisp\Downloads\Proyecto Programacion ll\VentasMayoreo\VentasMayoreo\obj\Debug\VentasMayoreo.Almacenes.resources
+C:\Users\luisp\Downloads\Proyecto Programacion ll\VentasMayoreo\VentasMayoreo\obj\Debug\VentasMayoreo.AlmacenConsultaGeneral.resources
+C:\Users\luisp\Downloads\Proyecto Programacion ll\VentasMayoreo\VentasMayoreo\obj\Debug\VentasMayoreo.AlmacenConsultaIndividual.resources
+C:\Users\luisp\Downloads\Proyecto Programacion ll\VentasMayoreo\VentasMayoreo\obj\Debug\VentasMayoreo.AltaEmpleado.resources
+C:\Users\luisp\Downloads\Proyecto Programacion ll\VentasMayoreo\VentasMayoreo\obj\Debug\VentasMayoreo.ArticulosActualizar.resources
+C:\Users\luisp\Downloads\Proyecto Programacion ll\VentasMayoreo\VentasMayoreo\obj\Debug\VentasMayoreo.AltaArticulos.resources
+C:\Users\luisp\Downloads\Proyecto Programacion ll\VentasMayoreo\VentasMayoreo\obj\Debug\VentasMayoreo.ArticulosConsultaNombre.resources
+C:\Users\luisp\Downloads\Proyecto Programacion ll\VentasMayoreo\VentasMayoreo\obj\Debug\VentasMayoreo.CategoriasActualizar.resources
+C:\Users\luisp\Downloads\Proyecto Programacion ll\VentasMayoreo\VentasMayoreo\obj\Debug\VentasMayoreo.CategoriasAlta.resources
+C:\Users\luisp\Downloads\Proyecto Programacion ll\VentasMayoreo\VentasMayoreo\obj\Debug\VentasMayoreo.CategoriasConsulta.resources
+C:\Users\luisp\Downloads\Proyecto Programacion ll\VentasMayoreo\VentasMayoreo\obj\Debug\VentasMayoreo.CategoriasListado.resources
+C:\Users\luisp\Downloads\Proyecto Programacion ll\VentasMayoreo\VentasMayoreo\obj\Debug\VentasMayoreo.Formularios.ClienteAbono.resources
+C:\Users\luisp\Downloads\Proyecto Programacion ll\VentasMayoreo\VentasMayoreo\obj\Debug\VentasMayoreo.Formularios.ClienteAbonoConsulta.resources
+C:\Users\luisp\Downloads\Proyecto Programacion ll\VentasMayoreo\VentasMayoreo\obj\Debug\VentasMayoreo.Formularios.ClienteActualizar.resources
+C:\Users\luisp\Downloads\Proyecto Programacion ll\VentasMayoreo\VentasMayoreo\obj\Debug\VentasMayoreo.Formularios.ClienteAlta.resources
+C:\Users\luisp\Downloads\Proyecto Programacion ll\VentasMayoreo\VentasMayoreo\obj\Debug\VentasMayoreo.Formularios.ClienteBaja.resources
+C:\Users\luisp\Downloads\Proyecto Programacion ll\VentasMayoreo\VentasMayoreo\obj\Debug\VentasMayoreo.Formularios.ClienteConsulta.resources
+C:\Users\luisp\Downloads\Proyecto Programacion ll\VentasMayoreo\VentasMayoreo\obj\Debug\VentasMayoreo.ConsultaEmpleados.resources
+C:\Users\luisp\Downloads\Proyecto Programacion ll\VentasMayoreo\VentasMayoreo\obj\Debug\VentasMayoreo.ConsultaSucursales.resources
+C:\Users\luisp\Downloads\Proyecto Programacion ll\VentasMayoreo\VentasMayoreo\obj\Debug\VentasMayoreo.AltaSucursal.resources
+C:\Users\luisp\Downloads\Proyecto Programacion ll\VentasMayoreo\VentasMayoreo\obj\Debug\VentasMayoreo.Principal.resources
+C:\Users\luisp\Downloads\Proyecto Programacion ll\VentasMayoreo\VentasMayoreo\obj\Debug\VentasMayoreo.Formularios.ReporteClienteVentas.resources
+C:\Users\luisp\Downloads\Proyecto Programacion ll\VentasMayoreo\VentasMayoreo\obj\Debug\VentasMayoreo.Formularios.VentaAlta.resources
+C:\Users\luisp\Downloads\Proyecto Programacion ll\VentasMayoreo\VentasMayoreo\obj\Debug\VentasMayoreo.Formularios.VentaConsulta.resources
+C:\Users\luisp\Downloads\Proyecto Programacion ll\VentasMayoreo\VentasMayoreo\obj\Debug\VentasMayoreo.Formularios.VentaDetallecs.resources
+C:\Users\luisp\Downloads\Proyecto Programacion ll\VentasMayoreo\VentasMayoreo\obj\Debug\VentasMayoreo.Properties.Resources.resources
+C:\Users\luisp\Downloads\Proyecto Programacion ll\VentasMayoreo\VentasMayoreo\obj\Debug\VentasMayoreo.csproj.GenerateResource.Cache
+C:\Users\luisp\Downloads\Proyecto Programacion ll\VentasMayoreo\VentasMayoreo\obj\Debug\RdlCompile.cache
+C:\Users\luisp\Downloads\Proyecto Programacion ll\VentasMayoreo\VentasMayoreo\obj\Debug\RdlCompile.compiled
+C:\Users\luisp\Downloads\Proyecto Programacion ll\VentasMayoreo\VentasMayoreo\obj\Debug\VentasMayoreo.ListadoArticulos.resources
+C:\Users\luisp\Downloads\Proyecto Programacion ll\VentasMayoreo\VentasMayoreo\obj\Debug\VentasMayoreo.Formularios.ReporteEmpleadoCategoria.resources
+C:\Users\luisp\Downloads\Proyecto Programacion ll\VentasMayoreo\VentasMayoreo\obj\Debug\VentasMayoreo.Formularios.ClienteConsultas.resources
+C:\Users\luisp\Downloads\Proyecto Programacion ll\VentasMayoreo\VentasMayoreo\obj\Debug\VentasMayoreo.Formularios.SucursalConsultaIndividual.resources
+C:\Users\Javier\Desktop\Proyecto Programacion ll\VentasMayoreo\VentasMayoreo\bin\Debug\VentasMayoreo.exe.config
+C:\Users\Javier\Desktop\Proyecto Programacion ll\VentasMayoreo\VentasMayoreo\obj\Debug\VentasMayoreo.exe
+C:\Users\Javier\Desktop\Proyecto Programacion ll\VentasMayoreo\VentasMayoreo\obj\Debug\VentasMayoreo.pdb
+G:\Proyecto Programacion ll\VentasMayoreo\VentasMayoreo\bin\Debug\VentasMayoreo.exe.config
+G:\Proyecto Programacion ll\VentasMayoreo\VentasMayoreo\obj\Debug\VentasMayoreo.exe
+G:\Proyecto Programacion ll\VentasMayoreo\VentasMayoreo\obj\Debug\VentasMayoreo.pdb
+G:\Proyecto Programacion ll\VentasMayoreo\VentasMayoreo\bin\Debug\VentasMayoreo.exe
+G:\Proyecto Programacion ll\VentasMayoreo\VentasMayoreo\bin\Debug\VentasMayoreo.pdb
+G:\Proyecto Programacion ll\VentasMayoreo\VentasMayoreo\bin\Debug\Microsoft.ReportViewer.WinForms.dll
+G:\Proyecto Programacion ll\VentasMayoreo\VentasMayoreo\bin\Debug\es\Microsoft.ReportViewer.WinForms.resources.dll
+G:\Proyecto Programacion ll\VentasMayoreo\VentasMayoreo\obj\Debug\VentasMayoreo.csprojResolveAssemblyReference.cache
+G:\Proyecto Programacion ll\VentasMayoreo\VentasMayoreo\obj\Debug\VentasMayoreo.Formularios.AcercadeNosotros.resources
+G:\Proyecto Programacion ll\VentasMayoreo\VentasMayoreo\obj\Debug\VentasMayoreo.ListadoArticulos.resources
+G:\Proyecto Programacion ll\VentasMayoreo\VentasMayoreo\obj\Debug\VentasMayoreo.Formularios.ClienteConsultas.resources
+G:\Proyecto Programacion ll\VentasMayoreo\VentasMayoreo\obj\Debug\VentasMayoreo.ActualizarEmpleado.resources
+G:\Proyecto Programacion ll\VentasMayoreo\VentasMayoreo\obj\Debug\VentasMayoreo.Almacenes.resources
+G:\Proyecto Programacion ll\VentasMayoreo\VentasMayoreo\obj\Debug\VentasMayoreo.AlmacenConsultaGeneral.resources
+G:\Proyecto Programacion ll\VentasMayoreo\VentasMayoreo\obj\Debug\VentasMayoreo.AlmacenConsultaIndividual.resources
+G:\Proyecto Programacion ll\VentasMayoreo\VentasMayoreo\obj\Debug\VentasMayoreo.AltaEmpleado.resources
+G:\Proyecto Programacion ll\VentasMayoreo\VentasMayoreo\obj\Debug\VentasMayoreo.ArticulosActualizar.resources
+G:\Proyecto Programacion ll\VentasMayoreo\VentasMayoreo\obj\Debug\VentasMayoreo.AltaArticulos.resources
+G:\Proyecto Programacion ll\VentasMayoreo\VentasMayoreo\obj\Debug\VentasMayoreo.ArticulosConsultaNombre.resources
+G:\Proyecto Programacion ll\VentasMayoreo\VentasMayoreo\obj\Debug\VentasMayoreo.CategoriasActualizar.resources
+G:\Proyecto Programacion ll\VentasMayoreo\VentasMayoreo\obj\Debug\VentasMayoreo.CategoriasAlta.resources
+G:\Proyecto Programacion ll\VentasMayoreo\VentasMayoreo\obj\Debug\VentasMayoreo.CategoriasConsulta.resources
+G:\Proyecto Programacion ll\VentasMayoreo\VentasMayoreo\obj\Debug\VentasMayoreo.CategoriasListado.resources
+G:\Proyecto Programacion ll\VentasMayoreo\VentasMayoreo\obj\Debug\VentasMayoreo.Formularios.ClienteAbono.resources
+G:\Proyecto Programacion ll\VentasMayoreo\VentasMayoreo\obj\Debug\VentasMayoreo.Formularios.ClienteAbonoConsulta.resources
+G:\Proyecto Programacion ll\VentasMayoreo\VentasMayoreo\obj\Debug\VentasMayoreo.Formularios.ClienteActualizar.resources
+G:\Proyecto Programacion ll\VentasMayoreo\VentasMayoreo\obj\Debug\VentasMayoreo.Formularios.ClienteAlta.resources
+G:\Proyecto Programacion ll\VentasMayoreo\VentasMayoreo\obj\Debug\VentasMayoreo.Formularios.ClienteBaja.resources
+G:\Proyecto Programacion ll\VentasMayoreo\VentasMayoreo\obj\Debug\VentasMayoreo.Formularios.ClienteConsulta.resources
+G:\Proyecto Programacion ll\VentasMayoreo\VentasMayoreo\obj\Debug\VentasMayoreo.ConsultaEmpleados.resources
+G:\Proyecto Programacion ll\VentasMayoreo\VentasMayoreo\obj\Debug\VentasMayoreo.Formularios.ReporteEmpleadoCategoria.resources
+G:\Proyecto Programacion ll\VentasMayoreo\VentasMayoreo\obj\Debug\VentasMayoreo.ConsultaSucursales.resources
+G:\Proyecto Programacion ll\VentasMayoreo\VentasMayoreo\obj\Debug\VentasMayoreo.AltaSucursal.resources
+G:\Proyecto Programacion ll\VentasMayoreo\VentasMayoreo\obj\Debug\VentasMayoreo.Principal.resources
+G:\Proyecto Programacion ll\VentasMayoreo\VentasMayoreo\obj\Debug\VentasMayoreo.Formularios.ReporteClienteVentas.resources
+G:\Proyecto Programacion ll\VentasMayoreo\VentasMayoreo\obj\Debug\VentasMayoreo.Formularios.SucursalConsultaIndividual.resources
+G:\Proyecto Programacion ll\VentasMayoreo\VentasMayoreo\obj\Debug\VentasMayoreo.Formularios.VentaAlta.resources
+G:\Proyecto Programacion ll\VentasMayoreo\VentasMayoreo\obj\Debug\VentasMayoreo.Formularios.VentaConsulta.resources
+G:\Proyecto Programacion ll\VentasMayoreo\VentasMayoreo\obj\Debug\VentasMayoreo.Formularios.VentaDetallecs.resources
+G:\Proyecto Programacion ll\VentasMayoreo\VentasMayoreo\obj\Debug\VentasMayoreo.Properties.Resources.resources
+G:\Proyecto Programacion ll\VentasMayoreo\VentasMayoreo\obj\Debug\VentasMayoreo.csproj.GenerateResource.Cache
+G:\Proyecto Programacion ll\VentasMayoreo\VentasMayoreo\obj\Debug\RdlCompile.cache
+G:\Proyecto Programacion ll\VentasMayoreo\VentasMayoreo\obj\Debug\RdlCompile.compiled
+C:\Users\luisp\Downloads\Proyecto Programacion ll\VentasMayoreo\VentasMayoreo\obj\Debug\VentasMayoreo.Formularios.AcercadeNosotros.resources
+E:\Proyecto Programacion ll\VentasMayoreo\VentasMayoreo\bin\Debug\VentasMayoreo.exe.config
+E:\Proyecto Programacion ll\VentasMayoreo\VentasMayoreo\obj\Debug\VentasMayoreo.exe
+E:\Proyecto Programacion ll\VentasMayoreo\VentasMayoreo\obj\Debug\VentasMayoreo.pdb
+C:\Users\Javier\Desktop\Proyecto Final Katy\Proyecto Programacion ll\VentasMayoreo\VentasMayoreo\bin\Debug\VentasMayoreo.exe.config
+C:\Users\Javier\Desktop\Proyecto Final Katy\Proyecto Programacion ll\VentasMayoreo\VentasMayoreo\obj\Debug\VentasMayoreo.exe
+C:\Users\Javier\Desktop\Proyecto Final Katy\Proyecto Programacion ll\VentasMayoreo\VentasMayoreo\obj\Debug\VentasMayoreo.pdb
+C:\Users\Javier\Desktop\Proyecto Final Katy\Proyecto Programacion ll\VentasMayoreo\VentasMayoreo\bin\Debug\VentasMayoreo.exe
+C:\Users\Javier\Desktop\Proyecto Final Katy\Proyecto Programacion ll\VentasMayoreo\VentasMayoreo\bin\Debug\VentasMayoreo.pdb
+C:\Users\Javier\Desktop\Proyecto Final Katy\Proyecto Programacion ll\VentasMayoreo\VentasMayoreo\bin\Debug\Microsoft.ReportViewer.WinForms.dll
+C:\Users\Javier\Desktop\Proyecto Final Katy\Proyecto Programacion ll\VentasMayoreo\VentasMayoreo\bin\Debug\Microsoft.SqlServer.Types.dll
+C:\Users\Javier\Desktop\Proyecto Final Katy\Proyecto Programacion ll\VentasMayoreo\VentasMayoreo\bin\Debug\de\Microsoft.SqlServer.Types.resources.dll
+C:\Users\Javier\Desktop\Proyecto Final Katy\Proyecto Programacion ll\VentasMayoreo\VentasMayoreo\bin\Debug\es\Microsoft.SqlServer.Types.resources.dll
+C:\Users\Javier\Desktop\Proyecto Final Katy\Proyecto Programacion ll\VentasMayoreo\VentasMayoreo\bin\Debug\fr\Microsoft.SqlServer.Types.resources.dll
+C:\Users\Javier\Desktop\Proyecto Final Katy\Proyecto Programacion ll\VentasMayoreo\VentasMayoreo\bin\Debug\it\Microsoft.SqlServer.Types.resources.dll
+C:\Users\Javier\Desktop\Proyecto Final Katy\Proyecto Programacion ll\VentasMayoreo\VentasMayoreo\bin\Debug\ja\Microsoft.SqlServer.Types.resources.dll
+C:\Users\Javier\Desktop\Proyecto Final Katy\Proyecto Programacion ll\VentasMayoreo\VentasMayoreo\bin\Debug\ko\Microsoft.SqlServer.Types.resources.dll
+C:\Users\Javier\Desktop\Proyecto Final Katy\Proyecto Programacion ll\VentasMayoreo\VentasMayoreo\bin\Debug\pt\Microsoft.SqlServer.Types.resources.dll
+C:\Users\Javier\Desktop\Proyecto Final Katy\Proyecto Programacion ll\VentasMayoreo\VentasMayoreo\bin\Debug\ru\Microsoft.SqlServer.Types.resources.dll
+C:\Users\Javier\Desktop\Proyecto Final Katy\Proyecto Programacion ll\VentasMayoreo\VentasMayoreo\bin\Debug\zh-Hans\Microsoft.SqlServer.Types.resources.dll
+C:\Users\Javier\Desktop\Proyecto Final Katy\Proyecto Programacion ll\VentasMayoreo\VentasMayoreo\bin\Debug\zh-Hant\Microsoft.SqlServer.Types.resources.dll
+C:\Users\Javier\Desktop\Proyecto Final Katy\Proyecto Programacion ll\VentasMayoreo\VentasMayoreo\obj\Debug\VentasMayoreo.csprojResolveAssemblyReference.cache
+C:\Users\Javier\Desktop\Proyecto Final Katy\Proyecto Programacion ll\VentasMayoreo\VentasMayoreo\obj\Debug\VentasMayoreo.Formularios.AcercadeNosotros.resources
+C:\Users\Javier\Desktop\Proyecto Final Katy\Proyecto Programacion ll\VentasMayoreo\VentasMayoreo\obj\Debug\VentasMayoreo.ListadoArticulos.resources
+C:\Users\Javier\Desktop\Proyecto Final Katy\Proyecto Programacion ll\VentasMayoreo\VentasMayoreo\obj\Debug\VentasMayoreo.Formularios.ClienteConsultas.resources
+C:\Users\Javier\Desktop\Proyecto Final Katy\Proyecto Programacion ll\VentasMayoreo\VentasMayoreo\obj\Debug\VentasMayoreo.ActualizarEmpleado.resources
+C:\Users\Javier\Desktop\Proyecto Final Katy\Proyecto Programacion ll\VentasMayoreo\VentasMayoreo\obj\Debug\VentasMayoreo.Almacenes.resources
+C:\Users\Javier\Desktop\Proyecto Final Katy\Proyecto Programacion ll\VentasMayoreo\VentasMayoreo\obj\Debug\VentasMayoreo.AlmacenConsultaGeneral.resources
+C:\Users\Javier\Desktop\Proyecto Final Katy\Proyecto Programacion ll\VentasMayoreo\VentasMayoreo\obj\Debug\VentasMayoreo.AlmacenConsultaIndividual.resources
+C:\Users\Javier\Desktop\Proyecto Final Katy\Proyecto Programacion ll\VentasMayoreo\VentasMayoreo\obj\Debug\VentasMayoreo.AltaEmpleado.resources
+C:\Users\Javier\Desktop\Proyecto Final Katy\Proyecto Programacion ll\VentasMayoreo\VentasMayoreo\obj\Debug\VentasMayoreo.ArticulosActualizar.resources
+C:\Users\Javier\Desktop\Proyecto Final Katy\Proyecto Programacion ll\VentasMayoreo\VentasMayoreo\obj\Debug\VentasMayoreo.AltaArticulos.resources
+C:\Users\Javier\Desktop\Proyecto Final Katy\Proyecto Programacion ll\VentasMayoreo\VentasMayoreo\obj\Debug\VentasMayoreo.ArticulosConsultaNombre.resources
+C:\Users\Javier\Desktop\Proyecto Final Katy\Proyecto Programacion ll\VentasMayoreo\VentasMayoreo\obj\Debug\VentasMayoreo.CategoriasActualizar.resources
+C:\Users\Javier\Desktop\Proyecto Final Katy\Proyecto Programacion ll\VentasMayoreo\VentasMayoreo\obj\Debug\VentasMayoreo.CategoriasAlta.resources
+C:\Users\Javier\Desktop\Proyecto Final Katy\Proyecto Programacion ll\VentasMayoreo\VentasMayoreo\obj\Debug\VentasMayoreo.CategoriasConsulta.resources
+C:\Users\Javier\Desktop\Proyecto Final Katy\Proyecto Programacion ll\VentasMayoreo\VentasMayoreo\obj\Debug\VentasMayoreo.CategoriasListado.resources
+C:\Users\Javier\Desktop\Proyecto Final Katy\Proyecto Programacion ll\VentasMayoreo\VentasMayoreo\obj\Debug\VentasMayoreo.Formularios.ClienteAbono.resources
+C:\Users\Javier\Desktop\Proyecto Final Katy\Proyecto Programacion ll\VentasMayoreo\VentasMayoreo\obj\Debug\VentasMayoreo.Formularios.ClienteAbonoConsulta.resources
+C:\Users\Javier\Desktop\Proyecto Final Katy\Proyecto Programacion ll\VentasMayoreo\VentasMayoreo\obj\Debug\VentasMayoreo.Formularios.ClienteActualizar.resources
+C:\Users\Javier\Desktop\Proyecto Final Katy\Proyecto Programacion ll\VentasMayoreo\VentasMayoreo\obj\Debug\VentasMayoreo.Formularios.ClienteAlta.resources
+C:\Users\Javier\Desktop\Proyecto Final Katy\Proyecto Programacion ll\VentasMayoreo\VentasMayoreo\obj\Debug\VentasMayoreo.Formularios.ClienteBaja.resources
+C:\Users\Javier\Desktop\Proyecto Final Katy\Proyecto Programacion ll\VentasMayoreo\VentasMayoreo\obj\Debug\VentasMayoreo.Formularios.ClienteConsulta.resources
+C:\Users\Javier\Desktop\Proyecto Final Katy\Proyecto Programacion ll\VentasMayoreo\VentasMayoreo\obj\Debug\VentasMayoreo.ConsultaEmpleados.resources
+C:\Users\Javier\Desktop\Proyecto Final Katy\Proyecto Programacion ll\VentasMayoreo\VentasMayoreo\obj\Debug\VentasMayoreo.Formularios.ReporteEmpleadoCategoria.resources
+C:\Users\Javier\Desktop\Proyecto Final Katy\Proyecto Programacion ll\VentasMayoreo\VentasMayoreo\obj\Debug\VentasMayoreo.ConsultaSucursales.resources
+C:\Users\Javier\Desktop\Proyecto Final Katy\Proyecto Programacion ll\VentasMayoreo\VentasMayoreo\obj\Debug\VentasMayoreo.AltaSucursal.resources
+C:\Users\Javier\Desktop\Proyecto Final Katy\Proyecto Programacion ll\VentasMayoreo\VentasMayoreo\obj\Debug\VentasMayoreo.Principal.resources
+C:\Users\Javier\Desktop\Proyecto Final Katy\Proyecto Programacion ll\VentasMayoreo\VentasMayoreo\obj\Debug\VentasMayoreo.Formularios.ReporteClienteVentas.resources
+C:\Users\Javier\Desktop\Proyecto Final Katy\Proyecto Programacion ll\VentasMayoreo\VentasMayoreo\obj\Debug\VentasMayoreo.Formularios.SucursalConsultaIndividual.resources
+C:\Users\Javier\Desktop\Proyecto Final Katy\Proyecto Programacion ll\VentasMayoreo\VentasMayoreo\obj\Debug\VentasMayoreo.Formularios.VentaAlta.resources
+C:\Users\Javier\Desktop\Proyecto Final Katy\Proyecto Programacion ll\VentasMayoreo\VentasMayoreo\obj\Debug\VentasMayoreo.Formularios.VentaConsulta.resources
+C:\Users\Javier\Desktop\Proyecto Final Katy\Proyecto Programacion ll\VentasMayoreo\VentasMayoreo\obj\Debug\VentasMayoreo.Formularios.VentaDetallecs.resources
+C:\Users\Javier\Desktop\Proyecto Final Katy\Proyecto Programacion ll\VentasMayoreo\VentasMayoreo\obj\Debug\VentasMayoreo.Properties.Resources.resources
+C:\Users\Javier\Desktop\Proyecto Final Katy\Proyecto Programacion ll\VentasMayoreo\VentasMayoreo\obj\Debug\VentasMayoreo.csproj.GenerateResource.Cache
+C:\Users\Javier\Desktop\Proyecto Final Katy\Proyecto Programacion ll\VentasMayoreo\VentasMayoreo\obj\Debug\RdlCompile.cache
+C:\Users\Javier\Desktop\Proyecto Final Katy\Proyecto Programacion ll\VentasMayoreo\VentasMayoreo\obj\Debug\RdlCompile.compiled

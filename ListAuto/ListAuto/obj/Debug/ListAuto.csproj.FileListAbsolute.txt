@@ -1,0 +1,6 @@
+C:\Users\Javier\Desktop\JC\Escuela\Programacion II\ListAuto\ListAuto\bin\Debug\ListAuto.exe.config
+C:\Users\Javier\Desktop\JC\Escuela\Programacion II\ListAuto\ListAuto\bin\Debug\ListAuto.exe
+C:\Users\Javier\Desktop\JC\Escuela\Programacion II\ListAuto\ListAuto\bin\Debug\ListAuto.pdb
+C:\Users\Javier\Desktop\JC\Escuela\Programacion II\ListAuto\ListAuto\obj\Debug\ListAuto.csprojResolveAssemblyReference.cache
+C:\Users\Javier\Desktop\JC\Escuela\Programacion II\ListAuto\ListAuto\obj\Debug\ListAuto.exe
+C:\Users\Javier\Desktop\JC\Escuela\Programacion II\ListAuto\ListAuto\obj\Debug\ListAuto.pdb

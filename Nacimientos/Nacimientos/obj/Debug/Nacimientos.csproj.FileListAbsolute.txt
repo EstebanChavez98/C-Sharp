@@ -1,0 +1,6 @@
+C:\Users\Javier\Desktop\JC\Escuela\Programacion II\Nacimientos\Nacimientos\bin\Debug\Nacimientos.exe.config
+C:\Users\Javier\Desktop\JC\Escuela\Programacion II\Nacimientos\Nacimientos\bin\Debug\Nacimientos.exe
+C:\Users\Javier\Desktop\JC\Escuela\Programacion II\Nacimientos\Nacimientos\bin\Debug\Nacimientos.pdb
+C:\Users\Javier\Desktop\JC\Escuela\Programacion II\Nacimientos\Nacimientos\obj\Debug\Nacimientos.csprojResolveAssemblyReference.cache
+C:\Users\Javier\Desktop\JC\Escuela\Programacion II\Nacimientos\Nacimientos\obj\Debug\Nacimientos.exe
+C:\Users\Javier\Desktop\JC\Escuela\Programacion II\Nacimientos\Nacimientos\obj\Debug\Nacimientos.pdb

@@ -1,0 +1,9 @@
+C:\Users\Javier\Desktop\JC\Escuela\Programacion II\Unidad 2\EjemploComboBox\EjemploComboBox\bin\Debug\EjemploComboBox.exe.config
+C:\Users\Javier\Desktop\JC\Escuela\Programacion II\Unidad 2\EjemploComboBox\EjemploComboBox\bin\Debug\EjemploComboBox.exe
+C:\Users\Javier\Desktop\JC\Escuela\Programacion II\Unidad 2\EjemploComboBox\EjemploComboBox\bin\Debug\EjemploComboBox.pdb
+C:\Users\Javier\Desktop\JC\Escuela\Programacion II\Unidad 2\EjemploComboBox\EjemploComboBox\obj\Debug\EjemploComboBox.csprojResolveAssemblyReference.cache
+C:\Users\Javier\Desktop\JC\Escuela\Programacion II\Unidad 2\EjemploComboBox\EjemploComboBox\obj\Debug\EjemploComboBox.Form1.resources
+C:\Users\Javier\Desktop\JC\Escuela\Programacion II\Unidad 2\EjemploComboBox\EjemploComboBox\obj\Debug\EjemploComboBox.Properties.Resources.resources
+C:\Users\Javier\Desktop\JC\Escuela\Programacion II\Unidad 2\EjemploComboBox\EjemploComboBox\obj\Debug\EjemploComboBox.csproj.GenerateResource.Cache
+C:\Users\Javier\Desktop\JC\Escuela\Programacion II\Unidad 2\EjemploComboBox\EjemploComboBox\obj\Debug\EjemploComboBox.exe
+C:\Users\Javier\Desktop\JC\Escuela\Programacion II\Unidad 2\EjemploComboBox\EjemploComboBox\obj\Debug\EjemploComboBox.pdb

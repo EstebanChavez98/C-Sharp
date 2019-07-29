@@ -1,0 +1,6 @@
+C:\Users\Javier\Desktop\JC\Escuela\Programacion II\EjemploList1\EjemploList1\bin\Debug\EjemploList1.exe.config
+C:\Users\Javier\Desktop\JC\Escuela\Programacion II\EjemploList1\EjemploList1\bin\Debug\EjemploList1.exe
+C:\Users\Javier\Desktop\JC\Escuela\Programacion II\EjemploList1\EjemploList1\bin\Debug\EjemploList1.pdb
+C:\Users\Javier\Desktop\JC\Escuela\Programacion II\EjemploList1\EjemploList1\obj\Debug\EjemploList1.csprojResolveAssemblyReference.cache
+C:\Users\Javier\Desktop\JC\Escuela\Programacion II\EjemploList1\EjemploList1\obj\Debug\EjemploList1.exe
+C:\Users\Javier\Desktop\JC\Escuela\Programacion II\EjemploList1\EjemploList1\obj\Debug\EjemploList1.pdb

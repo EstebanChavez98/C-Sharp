@@ -1,0 +1,15 @@
+c:\users\adm-pc\documents\visual studio 2015\Projects\Dictionary1\Dictionary1\bin\Debug\Dictionary1.exe.config
+c:\users\adm-pc\documents\visual studio 2015\Projects\Dictionary1\Dictionary1\bin\Debug\Dictionary1.exe
+c:\users\adm-pc\documents\visual studio 2015\Projects\Dictionary1\Dictionary1\bin\Debug\Dictionary1.pdb
+c:\users\adm-pc\documents\visual studio 2015\Projects\Dictionary1\Dictionary1\obj\Debug\Dictionary1.csprojResolveAssemblyReference.cache
+c:\users\adm-pc\documents\visual studio 2015\Projects\Dictionary1\Dictionary1\obj\Debug\Dictionary1.exe
+c:\users\adm-pc\documents\visual studio 2015\Projects\Dictionary1\Dictionary1\obj\Debug\Dictionary1.pdb
+C:\Users\ADM\Documents\Visual Studio 2015\Projects\Agos-Dic2017\Dictionary1\Dictionary1\bin\Debug\Dictionary1.exe.config
+C:\Users\ADM\Documents\Visual Studio 2015\Projects\Agos-Dic2017\Dictionary1\Dictionary1\obj\Debug\Dictionary1.exe
+C:\Users\ADM\Documents\Visual Studio 2015\Projects\Agos-Dic2017\Dictionary1\Dictionary1\obj\Debug\Dictionary1.pdb
+C:\Users\Javier\Desktop\Dictionary1\Dictionary1\bin\Debug\Dictionary1.exe.config
+C:\Users\Javier\Desktop\Dictionary1\Dictionary1\obj\Debug\Dictionary1.exe
+C:\Users\Javier\Desktop\Dictionary1\Dictionary1\obj\Debug\Dictionary1.pdb
+C:\Users\Javier\Desktop\Dictionary1\Dictionary1\bin\Debug\Dictionary1.exe
+C:\Users\Javier\Desktop\Dictionary1\Dictionary1\bin\Debug\Dictionary1.pdb
+C:\Users\Javier\Desktop\Dictionary1\Dictionary1\obj\Debug\Dictionary1.csprojResolveAssemblyReference.cache

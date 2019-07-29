@@ -1,0 +1,10 @@
+C:\Users\Javier\Desktop\JC\Escuela\Programacion II\Unidad 2\AlumnoVentana\AlumnoVentana\bin\Debug\AlumnoVentana.exe.config
+C:\Users\Javier\Desktop\JC\Escuela\Programacion II\Unidad 2\AlumnoVentana\AlumnoVentana\bin\Debug\AlumnoVentana.exe
+C:\Users\Javier\Desktop\JC\Escuela\Programacion II\Unidad 2\AlumnoVentana\AlumnoVentana\bin\Debug\AlumnoVentana.pdb
+C:\Users\Javier\Desktop\JC\Escuela\Programacion II\Unidad 2\AlumnoVentana\AlumnoVentana\obj\Debug\AlumnoVentana.csprojResolveAssemblyReference.cache
+C:\Users\Javier\Desktop\JC\Escuela\Programacion II\Unidad 2\AlumnoVentana\AlumnoVentana\obj\Debug\AlumnoVentana.Form1.resources
+C:\Users\Javier\Desktop\JC\Escuela\Programacion II\Unidad 2\AlumnoVentana\AlumnoVentana\obj\Debug\AlumnoVentana.Properties.Resources.resources
+C:\Users\Javier\Desktop\JC\Escuela\Programacion II\Unidad 2\AlumnoVentana\AlumnoVentana\obj\Debug\AlumnoVentana.csproj.GenerateResource.Cache
+C:\Users\Javier\Desktop\JC\Escuela\Programacion II\Unidad 2\AlumnoVentana\AlumnoVentana\obj\Debug\AlumnoVentana.exe
+C:\Users\Javier\Desktop\JC\Escuela\Programacion II\Unidad 2\AlumnoVentana\AlumnoVentana\obj\Debug\AlumnoVentana.pdb
+C:\Users\Javier\Desktop\JC\Escuela\Programacion II\Unidad 2\AlumnoVentana\AlumnoVentana\obj\Debug\AlumnoVentana.frmConsultas.resources

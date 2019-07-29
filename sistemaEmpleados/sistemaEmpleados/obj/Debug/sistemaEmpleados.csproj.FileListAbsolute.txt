@@ -1,0 +1,6 @@
+C:\Users\Javier\Desktop\JC\Escuela\Programacion II\sistemaEmpleados\sistemaEmpleados\bin\Debug\sistemaEmpleados.exe.config
+C:\Users\Javier\Desktop\JC\Escuela\Programacion II\sistemaEmpleados\sistemaEmpleados\bin\Debug\sistemaEmpleados.exe
+C:\Users\Javier\Desktop\JC\Escuela\Programacion II\sistemaEmpleados\sistemaEmpleados\bin\Debug\sistemaEmpleados.pdb
+C:\Users\Javier\Desktop\JC\Escuela\Programacion II\sistemaEmpleados\sistemaEmpleados\obj\Debug\sistemaEmpleados.csprojResolveAssemblyReference.cache
+C:\Users\Javier\Desktop\JC\Escuela\Programacion II\sistemaEmpleados\sistemaEmpleados\obj\Debug\sistemaEmpleados.exe
+C:\Users\Javier\Desktop\JC\Escuela\Programacion II\sistemaEmpleados\sistemaEmpleados\obj\Debug\sistemaEmpleados.pdb

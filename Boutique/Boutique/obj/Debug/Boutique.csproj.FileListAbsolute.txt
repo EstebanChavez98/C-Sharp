@@ -1,0 +1,6 @@
+C:\Users\Javier\Desktop\JC\Escuela\Programacion II\Boutique\Boutique\bin\Debug\Boutique.exe.config
+C:\Users\Javier\Desktop\JC\Escuela\Programacion II\Boutique\Boutique\bin\Debug\Boutique.exe
+C:\Users\Javier\Desktop\JC\Escuela\Programacion II\Boutique\Boutique\bin\Debug\Boutique.pdb
+C:\Users\Javier\Desktop\JC\Escuela\Programacion II\Boutique\Boutique\obj\Debug\Boutique.csprojResolveAssemblyReference.cache
+C:\Users\Javier\Desktop\JC\Escuela\Programacion II\Boutique\Boutique\obj\Debug\Boutique.exe
+C:\Users\Javier\Desktop\JC\Escuela\Programacion II\Boutique\Boutique\obj\Debug\Boutique.pdb

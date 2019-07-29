@@ -1,0 +1,6 @@
+C:\Users\Javier\Desktop\JC\Escuela\Programacion II\ejemploForEach\ejemploForEach\bin\Debug\ejemploForEach.exe.config
+C:\Users\Javier\Desktop\JC\Escuela\Programacion II\ejemploForEach\ejemploForEach\bin\Debug\ejemploForEach.exe
+C:\Users\Javier\Desktop\JC\Escuela\Programacion II\ejemploForEach\ejemploForEach\bin\Debug\ejemploForEach.pdb
+C:\Users\Javier\Desktop\JC\Escuela\Programacion II\ejemploForEach\ejemploForEach\obj\Debug\ejemploForEach.csprojResolveAssemblyReference.cache
+C:\Users\Javier\Desktop\JC\Escuela\Programacion II\ejemploForEach\ejemploForEach\obj\Debug\ejemploForEach.exe
+C:\Users\Javier\Desktop\JC\Escuela\Programacion II\ejemploForEach\ejemploForEach\obj\Debug\ejemploForEach.pdb

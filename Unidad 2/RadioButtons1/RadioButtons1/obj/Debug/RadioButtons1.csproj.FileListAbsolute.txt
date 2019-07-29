@@ -1,0 +1,12 @@
+C:\Users\ADM\Documents\Visual Studio 2015\Projects\Ene-Jun2018\RadioButtons1\RadioButtons1\bin\Debug\RadioButtons1.exe.config
+C:\Users\ADM\Documents\Visual Studio 2015\Projects\Ene-Jun2018\RadioButtons1\RadioButtons1\bin\Debug\RadioButtons1.exe
+C:\Users\ADM\Documents\Visual Studio 2015\Projects\Ene-Jun2018\RadioButtons1\RadioButtons1\bin\Debug\RadioButtons1.pdb
+C:\Users\ADM\Documents\Visual Studio 2015\Projects\Ene-Jun2018\RadioButtons1\RadioButtons1\obj\Debug\RadioButtons1.csprojResolveAssemblyReference.cache
+C:\Users\ADM\Documents\Visual Studio 2015\Projects\Ene-Jun2018\RadioButtons1\RadioButtons1\obj\Debug\RadioButtons1.Properties.Resources.resources
+C:\Users\ADM\Documents\Visual Studio 2015\Projects\Ene-Jun2018\RadioButtons1\RadioButtons1\obj\Debug\RadioButtons1.csproj.GenerateResource.Cache
+C:\Users\ADM\Documents\Visual Studio 2015\Projects\Ene-Jun2018\RadioButtons1\RadioButtons1\obj\Debug\RadioButtons1.exe
+C:\Users\ADM\Documents\Visual Studio 2015\Projects\Ene-Jun2018\RadioButtons1\RadioButtons1\obj\Debug\RadioButtons1.pdb
+C:\Users\ADM\Documents\Visual Studio 2015\Projects\Ene-Jun2018\RadioButtons1\RadioButtons1\obj\Debug\RadioButtons1.Form1.resources
+C:\Users\Javier\Desktop\JC\Escuela\Programacion II\Unidad 2\RadioButtons1\RadioButtons1\bin\Debug\RadioButtons1.exe.config
+C:\Users\Javier\Desktop\JC\Escuela\Programacion II\Unidad 2\RadioButtons1\RadioButtons1\obj\Debug\RadioButtons1.exe
+C:\Users\Javier\Desktop\JC\Escuela\Programacion II\Unidad 2\RadioButtons1\RadioButtons1\obj\Debug\RadioButtons1.pdb

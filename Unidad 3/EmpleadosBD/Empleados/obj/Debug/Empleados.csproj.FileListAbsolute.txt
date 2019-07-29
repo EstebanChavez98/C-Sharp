@@ -1,0 +1,9 @@
+C:\Users\Javier\Desktop\JC\Escuela\Programacion II\Unidad 3\EmpleadosBD\Empleados\bin\Debug\Empleados.exe.config
+C:\Users\Javier\Desktop\JC\Escuela\Programacion II\Unidad 3\EmpleadosBD\Empleados\bin\Debug\Empleados.exe
+C:\Users\Javier\Desktop\JC\Escuela\Programacion II\Unidad 3\EmpleadosBD\Empleados\bin\Debug\Empleados.pdb
+C:\Users\Javier\Desktop\JC\Escuela\Programacion II\Unidad 3\EmpleadosBD\Empleados\obj\Debug\Empleados.csprojResolveAssemblyReference.cache
+C:\Users\Javier\Desktop\JC\Escuela\Programacion II\Unidad 3\EmpleadosBD\Empleados\obj\Debug\Empleados.Form1.resources
+C:\Users\Javier\Desktop\JC\Escuela\Programacion II\Unidad 3\EmpleadosBD\Empleados\obj\Debug\Empleados.Properties.Resources.resources
+C:\Users\Javier\Desktop\JC\Escuela\Programacion II\Unidad 3\EmpleadosBD\Empleados\obj\Debug\Empleados.csproj.GenerateResource.Cache
+C:\Users\Javier\Desktop\JC\Escuela\Programacion II\Unidad 3\EmpleadosBD\Empleados\obj\Debug\Empleados.exe
+C:\Users\Javier\Desktop\JC\Escuela\Programacion II\Unidad 3\EmpleadosBD\Empleados\obj\Debug\Empleados.pdb

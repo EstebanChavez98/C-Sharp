@@ -1,0 +1,6 @@
+C:\Users\Javier\Desktop\JC\Escuela\Programacion II\tiendaRopa\tiendaRopa\bin\Debug\tiendaRopa.exe.config
+C:\Users\Javier\Desktop\JC\Escuela\Programacion II\tiendaRopa\tiendaRopa\bin\Debug\tiendaRopa.exe
+C:\Users\Javier\Desktop\JC\Escuela\Programacion II\tiendaRopa\tiendaRopa\bin\Debug\tiendaRopa.pdb
+C:\Users\Javier\Desktop\JC\Escuela\Programacion II\tiendaRopa\tiendaRopa\obj\Debug\tiendaRopa.csprojResolveAssemblyReference.cache
+C:\Users\Javier\Desktop\JC\Escuela\Programacion II\tiendaRopa\tiendaRopa\obj\Debug\tiendaRopa.exe
+C:\Users\Javier\Desktop\JC\Escuela\Programacion II\tiendaRopa\tiendaRopa\obj\Debug\tiendaRopa.pdb

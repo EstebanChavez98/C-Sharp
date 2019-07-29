@@ -1,0 +1,9 @@
+C:\Users\Javier\Desktop\JC\Escuela\Programacion II\Unidad 2\CheckYRadio\CheckYRadio\bin\Debug\CheckYRadio.exe.config
+C:\Users\Javier\Desktop\JC\Escuela\Programacion II\Unidad 2\CheckYRadio\CheckYRadio\bin\Debug\CheckYRadio.exe
+C:\Users\Javier\Desktop\JC\Escuela\Programacion II\Unidad 2\CheckYRadio\CheckYRadio\bin\Debug\CheckYRadio.pdb
+C:\Users\Javier\Desktop\JC\Escuela\Programacion II\Unidad 2\CheckYRadio\CheckYRadio\obj\Debug\CheckYRadio.csprojResolveAssemblyReference.cache
+C:\Users\Javier\Desktop\JC\Escuela\Programacion II\Unidad 2\CheckYRadio\CheckYRadio\obj\Debug\CheckYRadio.Form1.resources
+C:\Users\Javier\Desktop\JC\Escuela\Programacion II\Unidad 2\CheckYRadio\CheckYRadio\obj\Debug\CheckYRadio.Properties.Resources.resources
+C:\Users\Javier\Desktop\JC\Escuela\Programacion II\Unidad 2\CheckYRadio\CheckYRadio\obj\Debug\CheckYRadio.csproj.GenerateResource.Cache
+C:\Users\Javier\Desktop\JC\Escuela\Programacion II\Unidad 2\CheckYRadio\CheckYRadio\obj\Debug\CheckYRadio.exe
+C:\Users\Javier\Desktop\JC\Escuela\Programacion II\Unidad 2\CheckYRadio\CheckYRadio\obj\Debug\CheckYRadio.pdb

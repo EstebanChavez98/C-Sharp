@@ -1,0 +1,14 @@
+C:\Users\Javier\Desktop\JC\Escuela\Programacion II\Unidad 2\BibliotecaGUI\BibliotecaGUI\bin\Debug\BibliotecaGUI.exe.config
+C:\Users\Javier\Desktop\JC\Escuela\Programacion II\Unidad 2\BibliotecaGUI\BibliotecaGUI\bin\Debug\BibliotecaGUI.exe
+C:\Users\Javier\Desktop\JC\Escuela\Programacion II\Unidad 2\BibliotecaGUI\BibliotecaGUI\bin\Debug\BibliotecaGUI.pdb
+C:\Users\Javier\Desktop\JC\Escuela\Programacion II\Unidad 2\BibliotecaGUI\BibliotecaGUI\obj\Debug\BibliotecaGUI.csprojResolveAssemblyReference.cache
+C:\Users\Javier\Desktop\JC\Escuela\Programacion II\Unidad 2\BibliotecaGUI\BibliotecaGUI\obj\Debug\BibliotecaGUI.frmAltaLibros.resources
+C:\Users\Javier\Desktop\JC\Escuela\Programacion II\Unidad 2\BibliotecaGUI\BibliotecaGUI\obj\Debug\BibliotecaGUI.Principal.resources
+C:\Users\Javier\Desktop\JC\Escuela\Programacion II\Unidad 2\BibliotecaGUI\BibliotecaGUI\obj\Debug\BibliotecaGUI.Properties.Resources.resources
+C:\Users\Javier\Desktop\JC\Escuela\Programacion II\Unidad 2\BibliotecaGUI\BibliotecaGUI\obj\Debug\BibliotecaGUI.csproj.GenerateResource.Cache
+C:\Users\Javier\Desktop\JC\Escuela\Programacion II\Unidad 2\BibliotecaGUI\BibliotecaGUI\obj\Debug\BibliotecaGUI.exe
+C:\Users\Javier\Desktop\JC\Escuela\Programacion II\Unidad 2\BibliotecaGUI\BibliotecaGUI\obj\Debug\BibliotecaGUI.pdb
+C:\Users\Javier\Desktop\JC\Escuela\Programacion II\Unidad 2\BibliotecaGUI\BibliotecaGUI\obj\Debug\BibliotecaGUI.frmConsultaLibros.resources
+C:\Users\Javier\Desktop\JC\Escuela\Programacion II\Unidad 2\BibliotecaGUI\BibliotecaGUI\obj\Debug\BibliotecaGUI.frmPrestamoLibros.resources
+C:\Users\Javier\Desktop\JC\Escuela\Programacion II\Unidad 2\BibliotecaGUI\BibliotecaGUI\obj\Debug\BibliotecaGUI.frmConsultaTodoPrestamo.resources
+C:\Users\Javier\Desktop\JC\Escuela\Programacion II\Unidad 2\BibliotecaGUI\BibliotecaGUI\obj\Debug\BibliotecaGUI.txtFecha.resources
